@@ -1,2 +1,2 @@
-# object_folder
+# Object folder
 parents objects under a locator
